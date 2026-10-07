@@ -73,5 +73,5 @@ Por isso, os resultados servem apenas como **estimativa para fins educacionais**
 
 O projeto contém:
 
-* `FII_Renda_Mais_Simulador.xlsx` – planilha principal;
+* `fii_renda_mais_Simulador.xlsx` – planilha principal;
 * `prints` – imagens utilizadas para mostrar o funcionamento da ferramenta.
