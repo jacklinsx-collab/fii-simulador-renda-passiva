@@ -34,11 +34,11 @@ Com esses valores, o patrimônio estimado ao final de 10 anos é de aproximadame
 
 ### Perfil Conservador
 
-![Simulador no perfil Conservador](prints/01-simulador-conservador.png)
+![Simulador no perfil Conservador](prints01-simulador-conservador.png)
 
 ### Perfil Arrojado
 
-![Simulador no perfil Arrojado](prints/02-simulador-arrojado.png)
+![Simulador no perfil Arrojado](prints02-simulador-arrojado.png)
 
 A mudança de perfil altera principalmente a distribuição do dinheiro entre os tipos de fundos. O cálculo do patrimônio utiliza a mesma taxa de retorno informada na simulação.
 
@@ -46,7 +46,7 @@ A mudança de perfil altera principalmente a distribuição do dinheiro entre os
 
 A planilha possui uma aba com os percentuais utilizados em cada perfil.
 
-![Tabela de apoio](prints/03-tabela-de-apoio.png)
+![Tabela de apoio](prints03-tabela-de-apoio.png)
 
 Os percentuais foram definidos apenas para fins de estudo e não representam uma recomendação de investimento.
 
